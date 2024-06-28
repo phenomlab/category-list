@@ -28,6 +28,9 @@ Save
 
 Test it!
 
+You should end up with something like the category tree on the left
+
+![image](https://github.com/phenomlab/category-list/assets/2557946/14394e35-e33e-4ab0-85d0-79b346d8353e)
 
 
 
