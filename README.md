@@ -12,8 +12,7 @@ Place your dropdown menu items below, ie:
 <li><a class="dropdown-item" href="https://myforum.com">Link 1</a></li>
 ```
 
-Locate the file header.html. Copy this code, and paste into the above location, then save
-
+Locate the file `header.html`. Copy this code, and paste into the above location, then save
 
 Now save it.
 
@@ -22,7 +21,12 @@ Locate the file `categories.js` in this repository
 Paste the contents of that file into the `Custom JS` window and ensure `Enable Custom Javascript` is enabled
 Save
 
-Now go to `/admin/appearance/customise#custom-css` and add 
+Go to `/admin/appearance/customise#custom-css`
+Locate the file `categories.css` in this repository
+Paste the contents of that file into the `Custom CSS` window and ensure `Enable Custom CSS/SASS` is enabled
+Save
+
+Test it!
 
 
 
