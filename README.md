@@ -12,23 +12,8 @@ Place your dropdown menu items below, ie:
 <li><a class="dropdown-item" href="https://myforum.com">Link 1</a></li>
 ```
 
-Paste the below code
+Locate the file header.html. Copy this code, and paste into the above location, then save
 
-```
-<li class='nav-item' title=''>                 
-    <a class='nav-link nav-btn navigation-link px-3 py-2' href='/categories'>                     
-        <span class='d-inline-flex justify-content-between align-items-center w-100'>                         
-            <span class='text-nowrap'>                             
-                <i class='fa-regular fa-list fa-solid menu-icon' data-content='' aria-hidden='true'></i>                             
-                <span class='nav-text px-2 fw-semibold'>All Categories</span>                         
-            </span>                         
-            <span component='navigation/count' class='badge rounded-1 bg-primary hidden'></span>                     
-        </span>                 
-    </a>                 
-    <ul class='tree-branch' style='list-style: none;'></ul>            
- </li>
- <li id='thecategories'><h6 class='dropdown-header text-xs'>Individual Categories</h6></li>
-```
 
 Now save it.
 
