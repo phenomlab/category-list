@@ -7,8 +7,10 @@ Before you do anything else, amend the existing navigation menu item in `/admin/
 
 In the code window identified as 
 
+```
 Place your dropdown menu items below, ie:
 <li><a class="dropdown-item" href="https://myforum.com">Link 1</a></li>
+```
 
 Paste the below code
 
