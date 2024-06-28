@@ -1,0 +1,22 @@
+ul.tree-branch {
+    border-left: 1px solid var(--bs-link-color);
+    margin-left: 22px;
+}
+
+li.tree-node:before {
+    border-bottom: 1px solid var(--bs-link-color);
+    position: relative;
+    top: 1.4em;
+    width: 35px;
+    content: "";
+    display: flex;
+    left: -33px;
+}
+
+span.category-menu-tree-node {
+    margin-left: -35px;
+}
+
+span.category-menu-tree-node i {
+    min-width: 20px;
+}
