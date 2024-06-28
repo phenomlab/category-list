@@ -12,6 +12,7 @@ Place your dropdown menu items below, ie:
 
 Paste the below code
 
+```
 <li class='nav-item' title=''>                 
     <a class='nav-link nav-btn navigation-link px-3 py-2' href='/categories'>                     
         <span class='d-inline-flex justify-content-between align-items-center w-100'>                         
@@ -25,6 +26,7 @@ Paste the below code
     <ul class='tree-branch' style='list-style: none;'></ul>            
  </li>
  <li id='thecategories'><h6 class='dropdown-header text-xs'>Individual Categories</h6></li>
+```
 
 Now save it.
 
