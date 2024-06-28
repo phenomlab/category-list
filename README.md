@@ -34,8 +34,12 @@ Now save it.
 
 Go to `/admin/appearance/customise#custom-js`
 Locate the file `categories.js` in this repository
-Paste the contents of that file into the `Custom JS` window and ensure Custom JS is enabled
+Paste the contents of that file into the `Custom JS` window and ensure `Enable Custom Javascript` is enabled
 Save
+
+Now go to `/admin/appearance/customise#custom-css` and add 
+
+
 
 
 
